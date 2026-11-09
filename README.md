@@ -1,4 +1,4 @@
 # app-dev
 My Favorite Movie/Series
 # Peaky Blinders
-## Hope
+## Peaky Blinders is a British crime drama set in Birmingham, England, after World War I. It follows the Shelby family, a powerful gangster family led by Thomas “Tommy” Shelby, a highly intelligent, strategic, and ambitious man who wants to turn his family's street gang into one of the most powerful criminal empires in Britain. The family is involved in illegal gambling, robbery, violence, and other criminal activities while fighting rival gangs and dealing with corruption, betrayal, and political conflicts. As Tommy gains more power and influence, he becomes involved with wealthy businessmen, politicians, and dangerous enemies. However, beneath his tough and fearless personality, Tommy struggles with the trauma of war, personal losses, and the pressure of protecting his family. Overall, Peaky Blinders is not just about gangsters and crime; it is also about family loyalty, ambition, power, betrayal, and the psychological effects of war.
